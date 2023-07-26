@@ -1,0 +1,8 @@
+.buttons {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 103.5%;
+    left: 11%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+}
